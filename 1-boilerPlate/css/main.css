@@ -1,0 +1,39 @@
+
+body,html{
+	font-family: "Arial", sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+hr {
+width: 80%;
+}
+.circle {
+		 background: #808080;
+		 border: 5px solid orange;
+		 /*box-shadow: inset 0 0 0 2px white;*/
+		 border-radius: 200px;
+		 color: white;
+		 height: 150px;
+		 width: 150px;
+		 display: table;
+		 margin: 20px auto;
+		 -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+		 -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+		 -o-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+
+	}
+	.circle p {
+		 vertical-align: middle;
+		 display: table-cell;
+		 padding: 10px;
+
+	}
+	.chart-type {
+	  font-weight: bold;
+	  font-family: sans-serif;
+		color: white;
+	}
+
+	.chart-type:hover {
+	  color: #FF8C00 !important;
+	}
