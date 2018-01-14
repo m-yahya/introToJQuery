@@ -1,4 +1,4 @@
-## Introduction to JavaScript
+## Introduction to jQuery
 
 Introduction to jQuery is an introductory level presentation for the beginners that is aimed at *Write Less, Do More*.
 
